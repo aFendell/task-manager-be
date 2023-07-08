@@ -1,7 +1,7 @@
 ## Description
 
 This is a backend server that proviedes REST API endpoints to a task manager web app.
-It utilizes the following tools:
+It using the following tools and technologies:
 
 - Nest JS
 
@@ -12,6 +12,10 @@ It utilizes the following tools:
 - pgAdmin
 
 - TypeORM
+
+- Authentication
+
+- Authorization - JWT - Password JS
 
 ## Installation
 
