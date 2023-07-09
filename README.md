@@ -15,7 +15,7 @@ It using the following tools and technologies:
 
 - Authentication
 
-- Authorization - JWT - Password JS
+- JWT - Password JS
 
 ## Installation
 

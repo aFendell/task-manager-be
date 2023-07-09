@@ -8,7 +8,7 @@ import { AuthModule } from './auth/auth.module';
   imports: [
     TasksModule,
     ConfigModule.forRoot({
-      envFilePath: ['.env.development'],
+      isGlobal: true,
     }),
     TypeOrmModule.forRoot({
       type: 'postgres',
